@@ -1,0 +1,7 @@
+How to work with multiple users
+Kinect-v2 can fully track up to 6 users simultaneously.
+That’s why many of the Kinect-related components, like AvatarController,
+ InteractionManager, model & category-selectors, gesture & interaction listeners, etc. have a setting called ‘Player index’. 
+If set to 0, the respective component will track the 1st detected user. If set to 1, the component will track the 2nd detected use. 
+If set to 2 – the 3rd user, etc. The order of user detection may be specified with the ‘User detection order’-setting of the KinectManager 
+(component of KinectController game object).

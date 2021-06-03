@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F127249B-857C-9097-B21F-CABFBA3C8F2E}") = "Kinect_Test", "Assembly-CSharp-firstpass.csproj", "{5BD1991D-BBDB-4772-6712-4591C2CE5D40}"
+EndProject
+Project("{F127249B-857C-9097-B21F-CABFBA3C8F2E}") = "Kinect_Test", "Assembly-CSharp.csproj", "{0F634D42-9187-4B8E-BB7F-3A9CA2FA3268}"
+EndProject
+Project("{F127249B-857C-9097-B21F-CABFBA3C8F2E}") = "Kinect_Test", "Assembly-CSharp-Editor-firstpass.csproj", "{0957F9BC-5306-28BC-AF68-C11E102A50CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD1991D-BBDB-4772-6712-4591C2CE5D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD1991D-BBDB-4772-6712-4591C2CE5D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD1991D-BBDB-4772-6712-4591C2CE5D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD1991D-BBDB-4772-6712-4591C2CE5D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F634D42-9187-4B8E-BB7F-3A9CA2FA3268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F634D42-9187-4B8E-BB7F-3A9CA2FA3268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F634D42-9187-4B8E-BB7F-3A9CA2FA3268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F634D42-9187-4B8E-BB7F-3A9CA2FA3268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0957F9BC-5306-28BC-AF68-C11E102A50CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0957F9BC-5306-28BC-AF68-C11E102A50CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0957F9BC-5306-28BC-AF68-C11E102A50CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0957F9BC-5306-28BC-AF68-C11E102A50CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

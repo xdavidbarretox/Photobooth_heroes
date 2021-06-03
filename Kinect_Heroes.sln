@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect_Heroes.Plugins", "Kinect_Heroes.Plugins.csproj", "{F8EADB20-66C2-9FE0-C2E4-228AD3297269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect_Heroes", "Kinect_Heroes.csproj", "{2C48A77D-E78E-BD4F-07D5-054695A82D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect_Heroes.Editor", "Kinect_Heroes.Editor.csproj", "{E61CF8F8-41C5-0AD5-71A5-2EA27B61124B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect_Heroes.Editor.Plugins", "Kinect_Heroes.Editor.Plugins.csproj", "{B57D0016-79E4-BD13-0EFF-8DA97F27CA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8EADB20-66C2-9FE0-C2E4-228AD3297269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EADB20-66C2-9FE0-C2E4-228AD3297269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EADB20-66C2-9FE0-C2E4-228AD3297269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EADB20-66C2-9FE0-C2E4-228AD3297269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C48A77D-E78E-BD4F-07D5-054695A82D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C48A77D-E78E-BD4F-07D5-054695A82D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C48A77D-E78E-BD4F-07D5-054695A82D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C48A77D-E78E-BD4F-07D5-054695A82D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61CF8F8-41C5-0AD5-71A5-2EA27B61124B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61CF8F8-41C5-0AD5-71A5-2EA27B61124B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61CF8F8-41C5-0AD5-71A5-2EA27B61124B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61CF8F8-41C5-0AD5-71A5-2EA27B61124B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57D0016-79E4-BD13-0EFF-8DA97F27CA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57D0016-79E4-BD13-0EFF-8DA97F27CA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57D0016-79E4-BD13-0EFF-8DA97F27CA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57D0016-79E4-BD13-0EFF-8DA97F27CA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
